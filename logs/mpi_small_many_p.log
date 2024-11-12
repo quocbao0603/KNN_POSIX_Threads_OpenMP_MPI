@@ -1,0 +1,5 @@
+Job begins
+The 3-NN classifier for 160 test instances and 1184 train instances required 67 ms CPU time for MPI with 32 processes. Accuracy was 85.00%
+The 3-NN classifier for 160 test instances and 1184 train instances required 92 ms CPU time for MPI with 64 processes. Accuracy was 85.00%
+The 3-NN classifier for 160 test instances and 1184 train instances required 8310 ms CPU time for MPI with 128 processes. Accuracy was 85.00%
+Job ends

@@ -1,0 +1,14 @@
+Job begins
+The 3-NN classifier for 3436 test instances and 61606 train instances required 11859 ms CPU time for MPI with 1 processes. Accuracy was 99.48%
+The 3-NN classifier for 3436 test instances and 61606 train instances required 6044 ms CPU time for MPI with 2 processes. Accuracy was 99.48%
+The 3-NN classifier for 3436 test instances and 61606 train instances required 3248 ms CPU time for MPI with 4 processes. Accuracy was 99.48%
+The 3-NN classifier for 3436 test instances and 61606 train instances required 1752 ms CPU time for MPI with 8 processes. Accuracy was 99.48%
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 3 with PID 1323216 on node athena104 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+Job ends
+slurmstepd: error: Detected 2 oom_kill events in StepId=541087.batch. Some of the step tasks have been OOM Killed.

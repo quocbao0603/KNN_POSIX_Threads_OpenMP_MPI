@@ -1,0 +1,18 @@
+Job begins
+OpenMP num_thread: 1
+The 3-NN classifier for 740 test instances and 14708 train instances required 645 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 2
+The 3-NN classifier for 740 test instances and 14708 train instances required 501 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 4
+The 3-NN classifier for 740 test instances and 14708 train instances required 268 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 8
+The 3-NN classifier for 740 test instances and 14708 train instances required 311 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 16
+The 3-NN classifier for 740 test instances and 14708 train instances required 266 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 32
+The 3-NN classifier for 740 test instances and 14708 train instances required 360 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 64
+The 3-NN classifier for 740 test instances and 14708 train instances required 269 ms CPU time for OpenMP. Accuracy was 27.57%
+OpenMP num_thread: 128
+The 3-NN classifier for 740 test instances and 14708 train instances required 324 ms CPU time for OpenMP. Accuracy was 27.57%
+Job ends

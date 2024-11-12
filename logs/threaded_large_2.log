@@ -1,0 +1,18 @@
+Job begins
+POSIX Thread num_thread: 1
+The 3-NN classifier for 3436 test instances and 61606 train instances required 11812 ms CPU time for threaded with 1 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 2
+The 3-NN classifier for 3436 test instances and 61606 train instances required 12037 ms CPU time for threaded with 2 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 4
+The 3-NN classifier for 3436 test instances and 61606 train instances required 11876 ms CPU time for threaded with 4 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 8
+The 3-NN classifier for 3436 test instances and 61606 train instances required 6415 ms CPU time for threaded with 8 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 16
+The 3-NN classifier for 3436 test instances and 61606 train instances required 6487 ms CPU time for threaded with 16 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 32
+The 3-NN classifier for 3436 test instances and 61606 train instances required 3601 ms CPU time for threaded with 32 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 64
+The 3-NN classifier for 3436 test instances and 61606 train instances required 3479 ms CPU time for threaded with 64 threads. Accuracy was 99.48%
+POSIX Thread num_thread: 128
+The 3-NN classifier for 3436 test instances and 61606 train instances required 3639 ms CPU time for threaded with 128 threads. Accuracy was 99.48%
+Job ends
